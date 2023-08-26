@@ -4,3 +4,4 @@ My name is Ammiroul. I'm from Malaysia. I'm currently studies in Cybersecurity a
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulthegr8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roulthegr8&show_icons=true&theme=radical)
